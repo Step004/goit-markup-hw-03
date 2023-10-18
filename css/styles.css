@@ -258,8 +258,9 @@ img {
     gap: 40px;
 }
 
-.header-nav-list-item {
+.header-nav-list-item, .header-address-list-item {
     padding: 24px 0;
+    display: block;
 }
 
 .header-address-list {
